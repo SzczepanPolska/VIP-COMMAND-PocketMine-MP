@@ -23,3 +23,14 @@ Lub
 
 
 :)
+
+ENGLISH
+This is my first plugin :) I'm starting so I will certainly be errors in the coding: P Any help in configuring plug-in is always a "+"
+
+Plugin will be called "VIP COMMANDS" What will serve? It will be used for players who want to purchase a VIP
+
+commands:
+
+/ VIP - shows what gets VIP example. Diax set, etc. (you can edit) / SVIP / Evip
+
+You can just add YouTube / Or / sponsor
