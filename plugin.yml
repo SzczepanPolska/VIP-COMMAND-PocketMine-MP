@@ -1,0 +1,10 @@
+main: SendMessage\SendMessage
+version: 1.0
+api: 1.0.0
+description: Mój pierwszy plugin :):
+  polska:
+    description: Sends Message To Yourself
+permissions:
+    message.allow:
+      description: To Use Command
+      default: op
