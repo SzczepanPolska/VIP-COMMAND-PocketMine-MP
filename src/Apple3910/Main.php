@@ -19,7 +19,7 @@ class Main extends PluginBase{
             if($cmd == "svip") {
                    $sender->sendMessage($this->getConfig()->get("svipopis"));
             }
-            if($cmd == "uviP") {
+            if($cmd == "uvip") {
                    $sender->sendMessage($this->getConfig()->get("uvipopis"));
             }
              if($cmd == "youtube") {
