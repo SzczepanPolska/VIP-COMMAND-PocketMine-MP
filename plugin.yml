@@ -11,11 +11,11 @@ usage: /regulamin
 VIP:
 description: informacje dotycząca rangi VIP
 usage: /vip
-SVIP
+SVIP:
 description: informacje dotycząca rangi SuperVIP
 usage: /svip
-UVIP
+UVIP:
 description: informacje dotycząca rangi UltraVIP
-YT
+YT:
 description: informacje dostarczają rangi YouTube
 usage: /youtube
